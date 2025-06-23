@@ -1,0 +1,58 @@
+{
+    "configurations": [
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Test}/Swift",
+            "name": "Debug Swift (Swift)",
+            "program": "${workspaceFolder:Test}/Swift/.build/debug/Swift",
+            "preLaunchTask": "swift: Build Debug Swift (Swift)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Test}/Swift",
+            "name": "Release Swift (Swift)",
+            "program": "${workspaceFolder:Test}/Swift/.build/release/Swift",
+            "preLaunchTask": "swift: Build Release Swift (Swift)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Test}/SwiftExperiment",
+            "name": "Debug Swift (SwiftExperiment)",
+            "program": "${workspaceFolder:Test}/SwiftExperiment/.build/debug/Swift",
+            "preLaunchTask": "swift: Build Debug Swift (SwiftExperiment)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Test}/SwiftExperiment",
+            "name": "Release Swift (SwiftExperiment)",
+            "program": "${workspaceFolder:Test}/SwiftExperiment/.build/release/Swift",
+            "preLaunchTask": "swift: Build Release Swift (SwiftExperiment)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Test}/SwiftExperiment",
+            "name": "Debug SwiftExperiment (SwiftExperiment)",
+            "program": "${workspaceFolder:Test}/SwiftExperiment/.build/debug/SwiftExperiment",
+            "preLaunchTask": "swift: Build Debug SwiftExperiment (SwiftExperiment)"
+        },
+        {
+            "type": "swift",
+            "request": "launch",
+            "args": [],
+            "cwd": "${workspaceFolder:Test}/SwiftExperiment",
+            "name": "Release SwiftExperiment (SwiftExperiment)",
+            "program": "${workspaceFolder:Test}/SwiftExperiment/.build/release/SwiftExperiment",
+            "preLaunchTask": "swift: Build Release SwiftExperiment (SwiftExperiment)"
+        }
+    ]
+}

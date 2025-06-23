@@ -1,0 +1,717 @@
+{
+  "duplicate_count": 52,
+  "duplicates": [
+    {
+      "lowercase_value": "0",
+      "occurrences": [
+        {
+          "key": "data._0",
+          "original_value": "0"
+        },
+        {
+          "key": "data.text_price_hint",
+          "original_value": "0"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "arrived",
+      "occurrences": [
+        {
+          "key": "data.btn_arrived",
+          "original_value": "Arrived"
+        },
+        {
+          "key": "data.cancellation_status_21",
+          "original_value": "Arrived"
+        },
+        {
+          "key": "data.text_status27",
+          "original_value": "Arrived"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "accepted",
+      "occurrences": [
+        {
+          "key": "data.cancellation_status_3",
+          "original_value": "Accepted"
+        },
+        {
+          "key": "data.text_status3",
+          "original_value": "Accepted"
+        },
+        {
+          "key": "data.text_wallet_status_accepted",
+          "original_value": "Accepted"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "order ready",
+      "occurrences": [
+        {
+          "key": "data.cancellation_status_7",
+          "original_value": "Order ready"
+        },
+        {
+          "key": "data.text_order_ready",
+          "original_value": "Order ready"
+        },
+        {
+          "key": "data.text_status7",
+          "original_value": "Order ready"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "didn't get the code?",
+      "occurrences": [
+        {
+          "key": "data.didn_t_get_the_code",
+          "original_value": "Didn't get the code?"
+        },
+        {
+          "key": "data.text_didnt_get_the_code",
+          "original_value": "Didn't get the code?"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "slot already exists",
+      "occurrences": [
+        {
+          "key": "data.error_slot_already_exists",
+          "original_value": "Slot Already Exists"
+        },
+        {
+          "key": "data.slot_already_exists",
+          "original_value": "Slot already exists"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "charges",
+      "occurrences": [
+        {
+          "key": "data.hint_enter_charges",
+          "original_value": "Charges"
+        },
+        {
+          "key": "data.text_charges",
+          "original_value": "Charges"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "enter item name",
+      "occurrences": [
+        {
+          "key": "data.hint_enter_item",
+          "original_value": "Enter Item Name"
+        },
+        {
+          "key": "data.text_enter_Item_name",
+          "original_value": "Enter item name"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "please enter a credit card number.",
+      "occurrences": [
+        {
+          "key": "data.msg_enter_card_number",
+          "original_value": "Please enter a credit card number."
+        },
+        {
+          "key": "data.text_credit_card_number",
+          "original_value": "Please enter a credit card number."
+        }
+      ]
+    },
+    {
+      "lowercase_value": "please enter a valid amount.",
+      "occurrences": [
+        {
+          "key": "data.msg_enter_valid_amount",
+          "original_value": "Please enter a valid amount."
+        },
+        {
+          "key": "data.msg_plz_enter_valid_amount",
+          "original_value": "Please enter a valid amount."
+        }
+      ]
+    },
+    {
+      "lowercase_value": "please enter a mobile number length",
+      "occurrences": [
+        {
+          "key": "data.msg_please_enter_valid_mobile_number",
+          "original_value": "Please enter a mobile number length"
+        },
+        {
+          "key": "data.msg_please_enter_valid_mobile_number_length",
+          "original_value": "Please enter a mobile number length"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "pickup",
+      "occurrences": [
+        {
+          "key": "data.pickup",
+          "original_value": "Pickup"
+        },
+        {
+          "key": "data.text_pickup_delivery",
+          "original_value": "Pickup"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "cvv",
+      "occurrences": [
+        {
+          "key": "data.stripe_cvv",
+          "original_value": "CVV"
+        },
+        {
+          "key": "data.text_cvc",
+          "original_value": "Cvv"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "account",
+      "occurrences": [
+        {
+          "key": "data.text_account",
+          "original_value": "Account"
+        },
+        {
+          "key": "data.text_nav_bottom_account",
+          "original_value": "Account"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "as soon as possible",
+      "occurrences": [
+        {
+          "key": "data.text_asap",
+          "original_value": "As soon as possible"
+        },
+        {
+          "key": "data.text_asps",
+          "original_value": "As soon as possible"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "bank detail",
+      "occurrences": [
+        {
+          "key": "data.text_bank_detail",
+          "original_value": "Bank detail"
+        },
+        {
+          "key": "data.text_bank_details",
+          "original_value": "Bank detail"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "cancel",
+      "occurrences": [
+        {
+          "key": "data.text_cancel",
+          "original_value": "Cancel"
+        },
+        {
+          "key": "data.text_cancel_request",
+          "original_value": "Cancel"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "cancellation policy",
+      "occurrences": [
+        {
+          "key": "data.text_cancellation_policy",
+          "original_value": "Cancellation policy"
+        },
+        {
+          "key": "data.txt_cancellation_policy",
+          "original_value": "Cancellation Policy"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "completed order",
+      "occurrences": [
+        {
+          "key": "data.text_complete_order",
+          "original_value": "Completed order"
+        },
+        {
+          "key": "data.text_completed_order",
+          "original_value": "Completed order"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "confirm password",
+      "occurrences": [
+        {
+          "key": "data.text_confirm_password",
+          "original_value": "Confirm password"
+        },
+        {
+          "key": "data.text_new_confirm_password",
+          "original_value": "Confirm password"
+        },
+        {
+          "key": "data.text_password_retype",
+          "original_value": "Confirm password"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "created",
+      "occurrences": [
+        {
+          "key": "data.text_created",
+          "original_value": "Created"
+        },
+        {
+          "key": "data.text_wallet_status_created",
+          "original_value": "Created"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "deliveries",
+      "occurrences": [
+        {
+          "key": "data.text_deliveries",
+          "original_value": "Deliveries"
+        },
+        {
+          "key": "data.text_nav_bottom_deliveries",
+          "original_value": "Deliveries"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "partner",
+      "occurrences": [
+        {
+          "key": "data.text_delivery_man",
+          "original_value": "Partner"
+        },
+        {
+          "key": "data.text_provider",
+          "original_value": "Partner"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "description",
+      "occurrences": [
+        {
+          "key": "data.text_description",
+          "original_value": "Description"
+        },
+        {
+          "key": "data.text_description_c",
+          "original_value": "Description"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "email",
+      "occurrences": [
+        {
+          "key": "data.text_email",
+          "original_value": "Email"
+        },
+        {
+          "key": "data.text_email_or_phone",
+          "original_value": "Email"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "expire date",
+      "occurrences": [
+        {
+          "key": "data.text_exp_date",
+          "original_value": "Expire date"
+        },
+        {
+          "key": "data.text_promo_exp_date",
+          "original_value": "Expire date"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "history",
+      "occurrences": [
+        {
+          "key": "data.text_history",
+          "original_value": "History"
+        },
+        {
+          "key": "data.text_nav_bottom_order",
+          "original_value": "History"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "home",
+      "occurrences": [
+        {
+          "key": "data.text_home",
+          "original_value": "Home"
+        },
+        {
+          "key": "data.text_nav_bottom_home",
+          "original_value": "Home"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "item",
+      "occurrences": [
+        {
+          "key": "data.text_item",
+          "original_value": "Item"
+        },
+        {
+          "key": "data.text_items",
+          "original_value": "Item"
+        },
+        {
+          "key": "data.text_product",
+          "original_value": "Item"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "item price",
+      "occurrences": [
+        {
+          "key": "data.text_item_price",
+          "original_value": "Item price"
+        },
+        {
+          "key": "data.text_item_price_2",
+          "original_value": "Item price"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "tax",
+      "occurrences": [
+        {
+          "key": "data.text_item_tax",
+          "original_value": "Tax"
+        },
+        {
+          "key": "data.text_tax",
+          "original_value": "Tax"
+        },
+        {
+          "key": "data.text_tex",
+          "original_value": "Tax"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "login",
+      "occurrences": [
+        {
+          "key": "data.text_login",
+          "original_value": "Login"
+        },
+        {
+          "key": "data.text_login_now",
+          "original_value": "Login"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "menu",
+      "occurrences": [
+        {
+          "key": "data.text_menu",
+          "original_value": "Menu"
+        },
+        {
+          "key": "data.text_nav_bottom_menu",
+          "original_value": "Menu"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "no",
+      "occurrences": [
+        {
+          "key": "data.text_no",
+          "original_value": "No"
+        },
+        {
+          "key": "data.text_no_recursion",
+          "original_value": "No"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "orders",
+      "occurrences": [
+        {
+          "key": "data.text_order",
+          "original_value": "Orders"
+        },
+        {
+          "key": "data.text_orders",
+          "original_value": "Orders"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "order cancellation charge",
+      "occurrences": [
+        {
+          "key": "data.text_order_cancellation_charge",
+          "original_value": "Order cancellation charge"
+        },
+        {
+          "key": "data.text_order_cancellation_charge_value",
+          "original_value": "Order cancellation charge"
+        },
+        {
+          "key": "data.text_wallet_status_order_cancellation_charge",
+          "original_value": "Order cancellation charge"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "order details",
+      "occurrences": [
+        {
+          "key": "data.text_order_detail",
+          "original_value": "Order details"
+        },
+        {
+          "key": "data.text_order_details",
+          "original_value": "Order details"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "service payment",
+      "occurrences": [
+        {
+          "key": "data.text_paid_service_fee",
+          "original_value": "Service payment"
+        },
+        {
+          "key": "data.text_total_item_sold",
+          "original_value": "Service payment"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "pay",
+      "occurrences": [
+        {
+          "key": "data.text_pay",
+          "original_value": "Pay"
+        },
+        {
+          "key": "data.text_payment",
+          "original_value": "Pay"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "payments",
+      "occurrences": [
+        {
+          "key": "data.text_payments",
+          "original_value": "PAYMENTS"
+        },
+        {
+          "key": "data.text_payments_menu",
+          "original_value": "Payments"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "modifier groups",
+      "occurrences": [
+        {
+          "key": "data.text_product_specification_group",
+          "original_value": "Modifier groups"
+        },
+        {
+          "key": "data.text_specification_group",
+          "original_value": "Modifier groups"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "start date",
+      "occurrences": [
+        {
+          "key": "data.text_promo_start_date",
+          "original_value": "Start date"
+        },
+        {
+          "key": "data.text_start_date",
+          "original_value": "Start date"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "select",
+      "occurrences": [
+        {
+          "key": "data.text_prompt_select",
+          "original_value": "Select"
+        },
+        {
+          "key": "data.text_select",
+          "original_value": "Select"
+        },
+        {
+          "key": "data.text_select_range",
+          "original_value": "Select"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "referral",
+      "occurrences": [
+        {
+          "key": "data.text_referral",
+          "original_value": "Referral"
+        },
+        {
+          "key": "data.text_Referral",
+          "original_value": "Referral"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "register",
+      "occurrences": [
+        {
+          "key": "data.text_register",
+          "original_value": "Register"
+        },
+        {
+          "key": "data.text_register_now",
+          "original_value": "Register"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "you can request another code in",
+      "occurrences": [
+        {
+          "key": "data.text_resend_code_in",
+          "original_value": "You can request another code in"
+        },
+        {
+          "key": "data.you_can_request_another_code_in",
+          "original_value": "You can request another code in"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "select to date",
+      "occurrences": [
+        {
+          "key": "data.text_select_to_date",
+          "original_value": "Select to date"
+        },
+        {
+          "key": "data.text_to",
+          "original_value": "Select to date"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "select withdrawal method",
+      "occurrences": [
+        {
+          "key": "data.text_select_withdrawal_method",
+          "original_value": "Select withdrawal method"
+        },
+        {
+          "key": "data.text_select_withdrawal_method_tag",
+          "original_value": "Select withdrawal method"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "time",
+      "occurrences": [
+        {
+          "key": "data.text_time",
+          "original_value": "Time"
+        },
+        {
+          "key": "data.text_time_h_m",
+          "original_value": "Time"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "time price",
+      "occurrences": [
+        {
+          "key": "data.text_time_cost",
+          "original_value": "Time price"
+        },
+        {
+          "key": "data.text_time_price",
+          "original_value": "Time price"
+        }
+      ]
+    },
+    {
+      "lowercase_value": "please enter the otp you have received.",
+      "occurrences": [
+        {
+          "key": "data.text_verify_email",
+          "original_value": "Please enter the otp you have received."
+        },
+        {
+          "key": "data.text_verify_email_sms",
+          "original_value": "Please enter the otp you have received."
+        },
+        {
+          "key": "data.text_verify_sms",
+          "original_value": "Please enter the otp you have received."
+        }
+      ]
+    },
+    {
+      "lowercase_value": "wallet",
+      "occurrences": [
+        {
+          "key": "data.text_wallet",
+          "original_value": "Wallet"
+        },
+        {
+          "key": "data.text_wallet_balance",
+          "original_value": "Wallet"
+        }
+      ]
+    }
+  ]
+}
