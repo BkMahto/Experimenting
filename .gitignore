@@ -1,1 +1,29 @@
 .tmp.driveupload
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+env/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook artifacts
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Local configuration
+.env
+.devcontainer/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
